@@ -1,0 +1,15 @@
+[2K[1G[1myarn run v1.22.19[22m
+[2K[1G[2m$ father build[22m
+[36minfo[39m  - Clean output directories
+[36minfo[39m  - Bundless for [33msrc[39m directory to [33mesm[39m format
+[35mevent[39m - Bundless [90msrc/Button/index.less[39m to [90mdist/Button/index.less[39m
+[35mevent[39m - Bundless [90msrc/Button/index.tsx[39m to [90mdist/Button/index.js[39m (with declaration)
+[35mevent[39m - Bundless [90msrc/Foo/index.tsx[39m to [90mdist/Foo/index.js[39m (with declaration)
+[35mevent[39m - Bundless [90msrc/index.less[39m to [90mdist/index.less[39m
+[35mevent[39m - Bundless [90msrc/index.ts[39m to [90mdist/index.js[39m (with declaration)
+[35mevent[39m - Bundless [90msrc/style/default.less[39m to [90mdist/style/default.less[39m
+[35mevent[39m - Bundless [90msrc/style/index.less[39m to [90mdist/style/index.less[39m
+[35mevent[39m - Bundless [90msrc/style/reset.less[39m to [90mdist/style/reset.less[39m
+[35mevent[39m - Generate declaration files...
+[35mevent[39m - Transformed successfully in 5453 ms (8 files)
+[2K[1G✨  Done in 9.17s.
